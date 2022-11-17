@@ -1,0 +1,5 @@
+﻿  786. 第k个数.cpp
+  test.cpp
+D:\001代码仓库\Algorithm-based\快排\快排\test.cpp(13,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  快排.vcxproj -> D:\001代码仓库\Algorithm-based\快排\x64\Debug\快排.exe

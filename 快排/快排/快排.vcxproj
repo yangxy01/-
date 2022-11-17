@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="786. 第k个数.cpp" />
     <ClCompile Include="AcWing 785. 快速排序.cpp" />
     <ClCompile Include="test.cpp" />
   </ItemGroup>
