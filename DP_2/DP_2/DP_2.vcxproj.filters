@@ -24,5 +24,11 @@
     <ClCompile Include="282. 石子合并.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="899. 编辑距离.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="896. 最长上升子序列 II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

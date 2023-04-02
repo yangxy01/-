@@ -141,7 +141,9 @@
   <ItemGroup>
     <ClCompile Include="282. 石子合并.cpp" />
     <ClCompile Include="895. 最长上升子序列.cpp" />
+    <ClCompile Include="896. 最长上升子序列 II.cpp" />
     <ClCompile Include="898. 数字三角形.cpp" />
+    <ClCompile Include="899. 编辑距离.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
